@@ -7,4 +7,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	font-size: 70px;
+	text-align: center;
+	background-color: #212328;
+	color: #fff;
 }
