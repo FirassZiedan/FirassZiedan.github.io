@@ -22,10 +22,14 @@ body .content-wrapper {
   display: flex;
 }
 .header a {
+  font-family: 'Monoton', cursive;
+  font-size: 30px;
+}
+.header a:hover {
   text-decoration: none;
 }
 .main-content {
-  font-family: 'Lacquer', sans-serif;
+  font-family: 'Audiowide', cursive;
   justify-content: center;
   align-items: center;
   font-size: 70px;
